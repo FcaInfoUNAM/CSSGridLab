@@ -1,0 +1,12 @@
+1. Analiza el archivo custom css y explica en entregable.txt qué elementos serían afectados en los siguientes casos:
+	a - nav a {...}
+		Se modifica el texto dentro de la etiqueta <a> esta contenido en el navbar.
+	b - nav, a {...}
+		En este caso se modifica el estilo que esta en la etiqueta <nav> y en la etiqueta <a>
+	c - .l, .o, .v, .e, .r{...}
+		En este caso se modifican todas las clases a las que se hace referencia ( l, o, v, e, r ) de forma 	conjunta
+
+2. Explica en entregable.txt qué es lo que hace la propiedad filter y cómenta si hay algunas propiedades que usarías en tus fotos
+	Se utiliza para aplicar efecto a los elementos del codigo html, como modificar el brillo, el contraste o el 
+	desenfoque, en el ejemplo, brightness modifica el brillo e invert invierte los colores de los iconos. 
+	En fotos es común que utilice estas propiedades, especialmente el brillo o el desenfoque. 
