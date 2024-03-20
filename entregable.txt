@@ -1,0 +1,9 @@
+En nav a {...}, cuando lo modificamos, se ve afectado el texto que se encuentra en la esquina superior izquierda, en el header, es decir, a la tiendita en avión
+
+En nav, a modifica lo que esta en la etiqueta <nav> y lo que esta en <a>
+
+En .l, .o, .v, .e, .r {...} se modifica el texto que está dentro de la caja y la sombra de la misma.
+
+Filter agrega/define efectos visuales como puede ser la saturación o el brillo, a elementos/imagenes. Por ejemplo en invert, que es el que tiene el css, lo que hace es invertir los colores, en este caso de negro a blanco.
+En una foto yo usaría quizá brightness para modificar el brillo, contrast, para el contraste, o quizá sepia, como un filtro que te incluyen algunas aplicaciones.
+
