@@ -1,0 +1,26 @@
+2. Analiza el archivo custom css y explica en entregable.txt qué elementos serían afectados en los
+siguientes casos:
+
+    ```css 
+    nav a {...} 
+    ```
+        En este caso los elementos afectados son: 
+
+    ```css
+    nav , a {...}
+    ```
+        En este caso los elementos afectados son: nav y a
+
+    ```css
+    .l, .o, .v, .e, .r {...}   
+    ```
+        En este caso los elementos afectados son todos aquellos que aparecen después de las comas como: 
+        .l, .o, .v, .e y .r
+
+4. Explica en entregable.txt qué es lo que hace la propiedad filter y cómenta si hay algunas
+propiedades que usarías en tus fotos
+
+    La acción que realiza filter es la de definir los efectos visuales de un elemento como lo es
+    una imagen, le aplica por encima estos filtros a los elementos
+    Aplicaria algunas propiedades como "opacity", "blur".
+
