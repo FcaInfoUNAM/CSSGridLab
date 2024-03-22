@@ -58,22 +58,22 @@ main{
 .l{
     background-color: var(--Carlos-verde);
     grid-column: 5;
-    grid-row: 5;
+    grid-row: 1;
 }
 .o{
     background-color: var(--Carlos-aqua);
     grid-column: 4;
-    grid-row: 4;  
+    grid-row: 1;  
 }
 .v{
     background-color: var(--Carlos-azul);
     grid-column: 3;
-    grid-row: 3;
+    grid-row: 1;
 }
 .e{
     background-color: var(--Carlos-azuljuerte);
     grid-column: 2;
-    grid-row: 2;
+    grid-row: 1;
 }
 .r{
     background-color: var(--Carlos-morado);
