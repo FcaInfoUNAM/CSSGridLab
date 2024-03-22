@@ -1,0 +1,11 @@
+ 2. ¿qué elementos serían afectados en los siguientes casos:?
+
+nav a {...} es el texto en la barra de navegacion (oarte superior)
+
+nav , a {...} nav es el fondo ( background) de la página  
+
+.l, .o, .v, .e, .r {...}  afecta el tamaño del texto de las cajas
+
+4. qué es lo que hace la propiedad filter y cómenta si hay algunas propiedades que usarías en tus fotos
+Se utiliza para filtar elementos en este caso los iconos de las redes sociales y con ellas se letras
+puede aplicar un desenfoque, brillo, saturación entre otras.
