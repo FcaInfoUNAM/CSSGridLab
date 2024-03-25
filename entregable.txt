@@ -3,9 +3,9 @@ Martínez Mendoza Roberto David
 Paso 1:
     ¿Qué elementos serían afectados en los siguientes casos ...?
     - nav a {...} 
-    R = Modifica las propiedades del navbar.
+    R = Modifica las elementos dentro del navbar.
     - nav , a {...}
-    R = Modifica las propiedades de los elementos <a> que están en el navbar.
+    R = Modifica las propiedades de los elementos <a> y del navbar.
     - .l, .o, .v, .e, .r {...}  
     R = Define estilos para los elementos con las clases .l, .o, .v, .e, y .r.
 
