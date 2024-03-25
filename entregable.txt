@@ -1,0 +1,21 @@
+Martínez Mendoza Roberto David
+
+Paso 1:
+    ¿Qué elementos serían afectados en los siguientes casos ...?
+    - nav a {...} 
+    R = Modifica las propiedades del navbar.
+    - nav , a {...}
+    R = Modifica las propiedades de los elementos <a> que están en el navbar.
+    - .l, .o, .v, .e, .r {...}  
+    R = Define estilos para los elementos con las clases .l, .o, .v, .e, y .r.
+
+    ¿Qué es lo que hace la propiedad filter?
+    R = Aplica efectos visuales (filtros) a elementos HTML.
+    ¿Hay algunas propiedades que usarías en tus fotos?
+    R = Sí, esas propiedades las ocupamos demasiado hoy en día para mejorar nuestras fotos.
+        Podría utilizar brightness() para ajustar el brillo y mejorar iluminación, 
+        saturate() para la saturación de color, grayscale() para escalas de grises, etc.
+    
+
+
+
