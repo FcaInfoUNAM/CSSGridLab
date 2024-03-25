@@ -1,0 +1,14 @@
+1. /*nav a {...} */
+R: Permite hace referencia a estilos, y los elementos que 
+estén dentro de este van a ser afectados con la etiqueta llamada a. 
+2. /*nav , a {...}*/
+R: Todos los elementos se verán afectados, tanto 
+las que tienen etiqueta llamada a como los nav. 
+3. /*.l, .o, .v, .e, .r {...}*/
+R: Se van a editar todas las etiquetas que contengan esta clase, 
+en este caso, las letras que se muestran en la página.   
+4. Comenta las líneas
+/*nav a img{
+    filter: brightness(0) invert(1);
+} */
+R: Aplica un efecto obscuro en los íconos o letras de color blanco, la propiedad filter realiza efectos gráficos en los elementos. 
