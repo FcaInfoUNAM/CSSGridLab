@@ -1,0 +1,13 @@
+2)
+	1. nav a {...} se ven afectadas las etiquetas, los íconos de redes sociales pierden el margen
+	y el texto "A la tiendita en avión" al ser recorridas hacia el lado izquierdo.
+	2. con nav , a{...} los estilos se aplicarán tanto a todos los elementos descendientes 
+	de <nav> como a todos los elementos <a> en la página.
+	3. .l, .o, .v, .e, .r {...}   las etiquetas se hacen pequeñas, las letras se colocan fuera de 
+	las etiquetas en se ponen en negritas.
+
+
+4) Filter permite hacerle modificaciones a una imagen, como los colores, o invertir los colores, etc. 
+Usaría un grayscale(), por ejemplo para usarlas en mis fotos
+
+
