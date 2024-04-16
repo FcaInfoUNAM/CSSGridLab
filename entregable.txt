@@ -10,6 +10,6 @@ Paso 1:
     .l, .o, .v, .e, .r {...}
         Se establecerían estilos para los elementos que tienen las clases .l, .o, .v, .e y .r.
 
-    ¿Qué hace la propiedad filter? Cómenta si hay algunas propiedades que usarías en tus fotos
+    ¿Qué hace la propiedad filter? Comenta si hay algunas propiedades que usarías en tus fotos
         La propiedad filter se utiliza para aplicar efectos visuales, como filtros, a los elementos HTML.
         Podría emplear Blur() para aplicar un efecto de desenfoque a la imagen o Contrast() para  ajustar el contraste de la imagen.
