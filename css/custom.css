@@ -5,9 +5,18 @@
     --taylor-orange: #fdd2c5;
     --taylor-yellow: #fff0c0;
 }
+
+:root{
+    --flor-rojo: #ff0000;
+    --flor-rosa: #ff00d06e;
+    --flor-verde: #5eff00;
+    --flor-azul: #00d9ff;
+    --flor-naranja: #ff9100;
+}
+
 nav {
     color: white;
-    background-image: linear-gradient(var(--taylor-pink),var(--taylor-blue));
+    background-image: linear-gradient(var(--taylor-yellow),var(--taylor-orange));
     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);
     width: 100%;
     height: 10vh;
@@ -50,26 +59,26 @@ main{
 }
 .l{
     background-color: var(--taylor-yellow);
-    grid-column: 1 / 3;
-    grid-row: 1;
+    grid-column: 1;
+    grid-row: 5;
 }
 .o{
     background-color: var(--taylor-orange);
-    grid-column: 2 / 6;
-    grid-row: 1 / 3;  
+    grid-column: 1;
+    grid-row: 4;  
 }
 .v{
     background-color: var(--taylor-blue);
-    grid-column: 4;
-    grid-row: 2 / 5;
+    grid-column: 1;
+    grid-row: 3;
 }
 .e{
     background-color: var(--taylor-pink);
-    grid-column: 3;
-    grid-row: 3
+    grid-column: 1;
+    grid-row: 2;
 }
 .r{
     background-color: var(--taylor-purple);
-    grid-column: 2;
-    grid-row: 4;
+    grid-column: 1;
+    grid-row: 1;
 }
