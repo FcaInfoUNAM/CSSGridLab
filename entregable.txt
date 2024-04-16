@@ -1,0 +1,15 @@
+Paso 1:
+    
+    ¿Qué elementos serían afectados en los siguientes casos:
+    nav a {...} 
+        Se cambiarían los aspectos de los elementos dentro de la barra de navegación. 
+
+    nav , a {...}
+        Se modificarían las propiedades tanto de los elementos <a> como de la barra de navegación.
+    
+    .l, .o, .v, .e, .r {...}
+        Se establecerían estilos para los elementos que tienen las clases .l, .o, .v, .e y .r.
+
+    ¿Qué hace la propiedad filter? Cómenta si hay algunas propiedades que usarías en tus fotos
+        La propiedad filter se utiliza para aplicar efectos visuales, como filtros, a los elementos HTML.
+        Podría emplear Blur() para aplicar un efecto de desenfoque a la imagen o Contrast() para  ajustar el contraste de la imagen.
