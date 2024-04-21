@@ -58,27 +58,27 @@ main{
     line-height: 10rem;
 }
 .l{
-    background-color: var(--flor-naranja);
-    grid-column: 5;
+    background-color: var(--taylor-yellow);
+    grid-column: 1;
     grid-row: 5;
 }
 .o{
-    background-color: var(--flor-rojo);
-    grid-column: 4;
+    background-color: var(--taylor-orange);
+    grid-column: 1;
     grid-row: 4;  
 }
 .v{
-    background-color: var(--flor-azul);
-    grid-column: 3;
+    background-color: var(--taylor-blue);
+    grid-column: 1;
     grid-row: 3;
 }
 .e{
-    background-color: var(--flor-rosa);
-    grid-column: 2;
+    background-color: var(--taylor-pink);
+    grid-column: 1;
     grid-row: 2;
 }
 .r{
-    background-color: var(--flor-verde);
+    background-color: var(--taylor-purple);
     grid-column: 1;
     grid-row: 1;
 }
