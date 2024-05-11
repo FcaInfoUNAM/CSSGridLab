@@ -1,0 +1,61 @@
+1. Visualiza el navbar en el navegador   R= Listo
+2. Analiza el archivo custom css y explica en entregable.txt qué elementos serían afectados en los siguientes casos:
+    ```css 
+    nav a {...} 
+    R= lo afectado son todos los elementos que están dentro de nav a      
+    color: white;
+    text-decoration: none;
+    margin: 2vw;
+    ```
+    ```css
+    nav , a {...}
+    
+    R= lo afectado serian todos los elementos que están dentro de nav y de nav a 
+    color: white;
+    background-image: linear-gradient(var(--taylor-pink),var(--taylor-blue));
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);
+    width: 100%;
+    height: 10vh;
+    line-height: 5vh;
+    position: relative;
+    display: block;
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 2vw;
+}
+    ```
+    ```css
+    .l, .o, .v, .e, .r {...}   
+
+    R= Todos los elemntos dentro de l,o,v,e,r que en si sería la palabra misma con sus carácteristicas
+    color: white;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);
+    text-align: center;
+    font-size: xx-large;
+    line-height: 10rem;
+
+    3. Comenta las líneas R= Listo
+    4. Explica en entregable.txt qué es lo que hace la propiedad filter y cómenta si hay algunas propiedades que usarías en tus fotos
+    R=Es una propiedad que hace que le metas un filtro a la imagen, esto puedes
+    editar parámetros del filtrado, como el contraste, brillo y saturación
+    Sí, aunque si la foto ya está bien desde el diseñado no habría esa necesiddad, sin embargo creo usaría transform
+    5. Descomenta lo previamente comentado R= Listo
+
+    2.1. Cambia los colores del nav con la paleta de colores proporcionada en root, utiliza amarillo y naranja R= Listo
+    2.2 genera tu paleta de colores R= Listo
+
+    3.1. Revisa las líneas de la clase .grid y checa la documentación R=Listo
+    3.2. Modifica el CSS de las clases .l .o .v .e .r y diga lover R=Listo
+    3.3. Modifica el CSS de las clases .l .o .v .e .r y diga revol R=Listo
+    3.4. Realiza un commit con el comentario "REVOL"
+
+    4.1. Modifica el CSS de las clases .l .o .v .e .r R=Listo
+    4.2. Modifica el CSS de las clases sola fila y ordenadas para que digan LOVER R=Listo
+    4.3. Realiza un commit con el comentario "LOVER" R=Listo
+
+    5.1. Modifica el CSS de las clases para que esten alineadas en diagonal que digan REVOL R=Listo
+    5.2. Realiza un commit con el comentario "Diagonal" R=Listo
+    5.3. Cambia los colores a la paleta de colores que creaste R=Listo
+
+    6.1 R=Listo José Gerardo Sánchez Ruiz
