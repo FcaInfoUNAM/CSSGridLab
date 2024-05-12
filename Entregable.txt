@@ -1,0 +1,12 @@
+Paso 1.2
+nav a: esta clase afecta unicamente al texto colocado en la navbar.
+
+.l, .o, .v, .e, .r: esta clase afecta a los recuadros que se muestran en la página web, en particular a las letras
+		    que estan en los recuadros, dandole formato a estas.
+
+Paso 1.3 
+nav a img: esta clase afecta el color de los iconos de las redes sociales mostradas en el navbar.
+
+La propiedad "filter" representa un efecto gráfico que puede cambiar la apariencia de una imagen de entrada.  
+Yo usaria los efectos de blur y contrast para mis imágenes.
+
