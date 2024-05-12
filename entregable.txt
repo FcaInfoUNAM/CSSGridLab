@@ -1,0 +1,16 @@
+Benitez Aguilar Angel Alberto
+
+Paso 1
+nav z.: se afectaria Las letras de arriba a la izquierda, se afectaria el texto "A la tiendita en avión"
+nav , a {...} :
+.l, .o, .v, .e, .r {...} : se afectarias a las letras como conjunto que forman la palabra LOVER
+
+Paso 2
+La propiedad filter en CSS permite aplicar efectos visuales a elementos HTML, como imágenes, divs y SVGs. Estos efectos pueden ser sutiles o dramáticos, y se pueden usar para mejorar la estética de un sitio web, crear transiciones llamativas o simplemente para divertirse.
+
+Algunos otras funciones de esta propiedad:
+	blur(): Desenfoca el elemento.
+	brightness(): Ajusta el brillo del elemento.
+	contrast(): Ajusta el contraste del elemento.
+	drop-shadow(): Agrega una sombra al elemento.
+
