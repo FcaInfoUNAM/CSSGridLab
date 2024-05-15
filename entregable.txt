@@ -1,0 +1,9 @@
+Paso 1
+¿Qué elementos serían afectados en los siguientes casos?
+nav a {...} Se verán afectados todos los elementos a dentro de nav
+nav , a {...} Se verán afectados todos los elementos nav y los elementos a
+.l, .o, .v, .e, .r {...} Se verán afectados todos los elementos que sean .l, .o, .v, .e, .r
+
+¿Qué es lo que hace la propiedad filter y cómenta si hay algunas propiedades que usarías en tus fotos?
+Filter define propiedades en los efectos visuales de las imágenes. Usaría las propiedades de desenfoque (blur) y la escala de grises (grayscale)
+
