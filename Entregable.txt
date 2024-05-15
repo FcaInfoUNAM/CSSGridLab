@@ -1,0 +1,16 @@
+1. Analiza el archivo custom.css y explica qué elementos serían afectados en los siguientes casos:
+
+nav a {...} - Este estaria modificando la barra de navegación
+
+nav, a {...} - Este estaria modificando el texto de la barra de navegación
+
+.l, .o, .v, .e, .r {...} - Este estaria modificando las cajas y el texto que contienen dichas 			   cajas.
+
+
+2. Explica qué es lo que hace la propieda filter y cómenta si hay algunas propiedades que usarias en tus fotos    
+
+Aplica efectos visuales a un elemento y en mi caso usaria las propiedades brightness() y contrast()
+
+
+
+ 
