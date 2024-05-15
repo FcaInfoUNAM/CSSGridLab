@@ -1,9 +1,12 @@
 :root{
-    --taylor-pink: #FFBCD9;
-    --taylor-blue: #94bfe9;
-    --taylor-purple: #c7b6e2;
     --taylor-orange: #fdd2c5;
     --taylor-yellow: #fff0c0;
+    --oscarSalvador-azul:#0000ff;
+    --oscarSalvador-amarillo:#ffff00;
+    --oscarSalvador-rojo:#ff0000;
+    --oscarSalvador-morado:#8c004b;
+    --oscarSalvador-naranja:#ffa500;
+    --oscarSalvador-verde:#00913f;
 }
 nav {
     color: white;
@@ -50,26 +53,26 @@ main{
 }
 .l{
     background-color: var(--taylor-yellow);
-    grid-column: 1 / 3;
-    grid-row: 1;
+    grid-column: 1 / 2;
+    grid-row: 5;
 }
 .o{
-    background-color: var(--taylor-orange);
-    grid-column: 2 / 6;
-    grid-row: 1 / 3;  
+    background-color: var(--oscarSalvador-amarillo);
+    grid-column: 1 / 2;
+    grid-row: 4;  
 }
 .v{
-    background-color: var(--taylor-blue);
-    grid-column: 4;
-    grid-row: 2 / 5;
+    background-color: var(--oscarSalvador-azul);
+    grid-column: 1 / 2;
+    grid-row: 3;
 }
 .e{
-    background-color: var(--taylor-pink);
-    grid-column: 3;
-    grid-row: 3
+    background-color: var(--oscarSalvador-morado);
+    grid-column: 1 / 2;
+    grid-row: 2;
 }
 .r{
-    background-color: var(--taylor-purple);
-    grid-column: 2;
-    grid-row: 4;
+    background-color: var(--oscarSalvador-naranja);
+    grid-column: 1 / 2;
+    grid-row: 1;
 }
