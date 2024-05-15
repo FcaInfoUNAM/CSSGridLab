@@ -1,0 +1,23 @@
+PASO 1
+
+    2. Analiza el archivo custom css y explica qué elementos serían afectados en 
+        los siguientes casos:
+
+        nav a {...}: afecta a los elementos dentro del nav bar
+
+        nav , a {...}: afecta a los elementos en el navbar y el navbar como tal
+
+        .l, .o, .v, .e, .r {...}: afecta los elementos dentro de los contenedores marcados
+    
+    3. Comenta qué es lo que hace la propiedad filter y comenta si hay algunas propiedades 
+        que usarías en tus fotos 
+            La propiedad filter sirve para cambiar el contraste o el brillo de una imagen 
+            o también invertir los colores.
+            Tiene otras propiedades como desenfoque, contraste, saturación o incluso filtros 
+            en colores sepia. Persolnalmente usaría la propiedad de transparencia porque no 
+            me gustan mis fotos :D 
+
+
+
+
+        
