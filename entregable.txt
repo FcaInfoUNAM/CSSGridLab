@@ -1,0 +1,17 @@
+Analiza el archivo custom css y explica en entregable.txt qué elementos serían afectados en los siguientes casos:
+
+    ```css 
+    nav a {...} 
+    ```
+    ```css
+    nav , a {...}
+    ```
+    ```css
+    .l, .o, .v, .e, .r {...}   
+    ```
+
+R.- nav a {...} afectaria a los elementos a directamente anidados a nav, mientras que nav, a{...} afectaría a todos los elementos a anidados incluso en otros niveles dentro de nav
+
+Explica en entregable.txt qué es lo que hace la propiedad filter y cómenta si hay algunas propiedades que usarías en tus fotos
+R.- La propiedad filter te permite aplicar efectos a las imagenes en css, yo usaria los filtros brightness y blur en mis fotos.
+
