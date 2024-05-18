@@ -1,0 +1,5 @@
+2. 
+	1. nav a {...} se ven afectadas las etiquetas, los íconos de redes sociales y el texto "A la tiendita en avión" al ser recorridas hacia el lado izquierdo.
+	2. nav , a {...} no note cambios.
+	3. .l, .o, .v, .e, .r {...}   las etiquetas se hacen pequeñas, las letras se colocan fuera de las etiquetas en se ponen en negritas.
+4. filter permite hacerle modificaciones a una imagen, como los colores, o invertir los colores, etc. Definitivamente utilizaría las propiedades para mis fotos.
