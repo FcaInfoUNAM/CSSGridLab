@@ -1,0 +1,21 @@
+-Analiza el archivo custom css y explica en entregable.txt qué elementos serían afectados en los siguientes casos:
+
+nav a {...} 
+Es un selector descendiente. Indica que el estilo solo se aplica a los <a> que estén dentro de un <nav>.
+
+nav , a {...}
+Es un selector agrupado. La coma indica que son dos selectores independientes:
+el estilo se aplica a todos los <nav> del documento y a todos los <a> del documento. 
+
+.l, .o, .v, .e, .r {...} 
+Es un selector de lista de clases. Las comas agrupan las cinco clases para que compartan el mismo bloque de estilos.
+Así se evita repetir código innecesariamente.
+
+
+- Explica en entregable.txt qué es lo que hace la propiedad filter y cómenta si hay algunas propiedades que usarías en tus fotos
+Esta propiedad aplica efectos visuales sobre
+una imagen. En este caso: 
+brightness(0): reduce el brillo a cero, volviendo la imagen completamente negra
+invert(1): invierte los colores, convirtiendo de negro a blanco
+filter también tiene propiedades para modificar el contraste y la saturación de los colores, las cuales llegaría a usar para mis fotos, junto con el brillo
+
