@@ -1,0 +1,22 @@
+LABORATORIO CSSGridLab
+Alumno: Axel Alfonso García Núñez
+Materia: Implementación de Sistemas
+
+PASO 1 - SELECTORES
+
+1) nav a { ... }
+Es un selector descendiente. Afecta a todos los elementos <a> que estén dentro de un <nav>. En este caso son los cuatro enlaces con ícono (Facebook, TikTok, YouTube y Twitter) y el enlace de texto "A la tiendita en avión".
+
+2) nav , a { ... }
+La coma separa dos selectores independientes. Afecta a todos los elementos <nav> y, por separado, a todos los elementos <a> de la página, estén o no dentro del nav. Es muy distinto del caso anterior, que no tiene coma.
+
+3) .l, .o, .v, .e, .r { ... }
+Es una lista de selectores de clase. Afecta a los cinco <div> que tienen esas clases, es decir, a las letras L, O, V, E y R del grid.
+
+PASO 1 - PROPIEDAD FILTER
+
+La propiedad filter aplica efectos gráficos a un elemento, como imágenes. Algunas de sus funciones son blur (desenfoque), brightness (brillo), contrast (contraste), grayscale (escala de grises), sepia, invert (invierte los colores), hue-rotate (rota el tono) y drop-shadow (sombra).
+
+En este laboratorio, filter: brightness(0) invert(1) primero vuelve negra la imagen (brillo 0) y luego invierte los colores, por lo que los íconos del navbar se ven blancos. Al comentar esa regla, los íconos regresan a sus colores originales.
+
+En mis fotos usaría grayscale para un estilo blanco y negro, sepia para un efecto vintage, contrast para resaltar detalles y blur para suavizar fondos.
