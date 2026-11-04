@@ -54,28 +54,28 @@ main{
     font-size: xx-large;
     line-height: 10rem;
 }
-.l{
-    background-color: var(--taylor-yellow);
+.r{
+    background-color: var(--axel-morado);
     grid-column: 1;
     grid-row: 1;
 }
-.o{
-    background-color: var(--taylor-orange);
+.e{
+    background-color: var(--axel-rojo);
     grid-column: 2;
-    grid-row: 1;
+    grid-row: 2;
 }
 .v{
-    background-color: var(--taylor-blue);
+    background-color: var(--axel-azul);
     grid-column: 3;
-    grid-row: 1;
+    grid-row: 3;
 }
-.e{
-    background-color: var(--taylor-pink);
+.o{
+    background-color: var(--axel-naranja);
     grid-column: 4;
-    grid-row: 1;
+    grid-row: 4;
 }
-.r{
-    background-color: var(--taylor-purple);
+.l{
+    background-color: var(--axel-verde);
     grid-column: 5;
-    grid-row: 1;
+    grid-row: 5;
 }
