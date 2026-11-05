@@ -5,21 +5,21 @@
 }
 .o{
     background-color: var(--monica-naranja);
-    grid-column: 1;
+    grid-column: 2;
     grid-row: 2;  
 }
 .v{
     background-color: var(--monica-azul);
-    grid-column: 1;
+    grid-column: 3;
     grid-row: 3;
 }
 .e{
     background-color: var(--monica-rosa);
-    grid-column: 1;
+    grid-column: 4;
     grid-row: 4;
 }
 .r{
     background-color: var(--monica-morado);
-    grid-column: 1;
+    grid-column: 5;
     grid-row: 5;
 } 
