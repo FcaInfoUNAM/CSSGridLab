@@ -7,3 +7,11 @@
 - Qué hace filter: Convierte la imagen completamente a color negro con brightness(0) y luego invierte los tonos a blanco con invert(1), logrando que los íconos se vean blancos.
 
 - Propiedades de filtro útiles para fotos: Se puede usar grayscale(100%) para blanco y negro o blur(5px) para dar un efecto difuminado.
+
+Qué elementos afecta nav a {...}: afecta a todas las etiquetas a que están dentro de un elemento nav
+
+Qué elementos afecta nav , a {...}: afecta por separado a todos los elementos nav y a todos los elementos a de la página
+
+Qué elementos afecta .l, .o, .v, .e, .r {...}: afecta a todos los elementos que tengan esas clases de manera conjunta
+
+Qué hace la propiedad filter: (brightness(0) invert(1) oscurece la imagen y la invierte a blanco) y qué otra propiedad usarías (ej. grayscale(100%)).
