@@ -43,28 +43,28 @@ main{
     grid-auto-rows: minmax(100px, auto);
 }
 
-.r{
-    background-color: var(--taylor-purple);
+.l{
+    background-color: var(--taylor-yellow);
     grid-column: 1;
     grid-row: 1;
 }
-.e{
-    background-color: var(--taylor-pink);
+.o{
+    background-color: var(--taylor-orange);
     grid-column: 1;
     grid-row: 2;  
 }
 .v{
     background-color: var(--taylor-blue);
-    grid-column: 1;
-    grid-row: 3;
+    grid-column: 3;
+    grid-row: 1;
 }
-.o{
-    background-color: var(--taylor-orange);
-    grid-column: 1;
-    grid-row: 4;
+.e{
+    background-color: var(--taylor-pink);
+    grid-column: 4;
+    grid-row: 1;
 }
-.l{
-    background-color: var(--taylor-yellow);
-    grid-column: 1;
-    grid-row: 5;
+.r{
+    background-color: var(--taylor-purple);
+    grid-column: 5;
+    grid-row: 1;
 }
