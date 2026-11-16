@@ -1,0 +1,10 @@
+2. Análisis de selectores CSS:
+- nav a {...}: Selector descendente. Afecta únicamente a los enlaces <a> que se encuentren dentro de la etiqueta <nav>.
+- nav , a {...}: Selector de agrupación. Afecta a TODAS las etiquetas <nav> del sitio y a TODOS los enlaces <a>,
+ sin importar dónde estén.
+- .l, .o, .v, .e, .r {...}: Selector de múltiples clases. Aplica exactamente los mismos estilos a cualquier 
+elemento que tenga alguna de esas clases.
+
+4. Explicación de la propiedad filter:
+La propiedad `filter` aplica efectos visuales a una imagen. En el caso de `brightness(0) invert(1)`, primero oscurece la imagen por completo hasta
+ dejarla negra, y luego invierte los colores, convirtiendo el negro en blanco puro.
