@@ -42,12 +42,12 @@ body{
 main{
     margin: 8px;
 }
-.grid{
+.grid {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(5, 1fr); /* <-- 5 columnas */
     grid-gap: 10px;
     grid-auto-rows: minmax(100px, auto);
-    max-width: 100px; 
+    max-width: 500px; /* Para que quepan las 5 letras */
     margin: 0 auto; 
 }
 .l, .o, .v, .e, .r{
