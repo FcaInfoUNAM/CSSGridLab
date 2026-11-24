@@ -1,0 +1,8 @@
+Pregunta 2:
+- nav a {...}: Afecta a TODOS los enlaces <a> que estén DENTRO del elemento <nav>. Solo a los hijos directos o descendientes.
+- nav , a {...}: Afecta a TODOS los elementos <nav> de la página Y a TODOS los enlaces <a> de la página (son dos selectores separados por coma, no hay relación entre ellos).
+- .l, .o, .v, .e, .r {...}: Afecta a todos los elementos que tengan cualquiera de esas clases. Es decir, al elemento con class="l", al de class="o", etc.
+
+Pregunta 4:
+La propiedad `filter` en CSS se utiliza para aplicar efectos gráficos a un elemento (como imágenes). En este caso, `brightness(0)` hace que la imagen se vuelva completamente negra, y `invert(1)` invierte los colores, haciendo que el negro se vuelva blanco. En resumen, convierte el logo en blanco.
+Propiedades que usaría en mis fotos: `sepia(100%)` para dar un tono vintage, `blur(5px)` para desenfocar un fondo, o `contrast(150%)` para hacer que los colores resalten.
