@@ -14,7 +14,7 @@
 
 nav {
     color: white;
-    background-image: linear-gradient(to right, var(--amarillo), var(--naranja));
+    background-image: linear-gradient(to right, var(--liz-amarillo), var(--liz-naranja));
     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);
     width: 100%;
     height: 10vh;
@@ -51,34 +51,34 @@ main{
     margin: 0 auto; 
 }
 .l, .o, .v, .e, .r{
-    color: white;
+    color: #333;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);
     text-align: center;
     font-size: xx-large;
     line-height: 10rem;
-}
 .l{
     background-color: var(--taylor-yellow);
-    grid-column: 1 / 3;
-    grid-row: 1;
+    grid-column: 1; /* Anulamos las columnas viejas */
+    grid-row: auto; 
 }
 .o{
     background-color: var(--taylor-orange);
-    grid-column: 2 / 6;
-    grid-row: 1 / 3;  
+    grid-column: 1; 
+    grid-row: auto;  
 }
 .v{
     background-color: var(--taylor-blue);
-    grid-column: 4;
-    grid-row: 2 / 5;
+    grid-column: 1; 
+    grid-row: auto;
 }
 .e{
     background-color: var(--taylor-pink);
-    grid-column: 3;
-    grid-row: 3
+    grid-column: 1; 
+    grid-row: auto;
 }
 .r{
     background-color: var(--taylor-purple);
-    grid-column: 2;
-    grid-row: 4;
+    grid-column: 1; 
+    grid-row: auto;
+}
 }
