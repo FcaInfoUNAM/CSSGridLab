@@ -1,0 +1,7 @@
+1. Selectores en custom.css:
+- nav a {...}: Afecta únicamente a los elementos <a> que están dentro (son descendientes) de un <nav>.
+- nav , a {...}: La coma separa dos selectores distintos, por lo que afecta a todos los elementos <nav> y a todas las etiquetas <a> de toda la página.
+- .l, .o, .v, .e, .r {...}: Afecta a cualquier elemento que tenga alguna de esas clases (.l, .o, .v, .e o .r).
+
+2. Propiedad filter:
+La propiedad filter aplica efectos gráficos visuales (como brillo, contraste, desenfoque, escala de grises o inversión de color) a un elemento ya renderizado. Con brightness(0) invert(1) se lleva el brillo a 0 y se invierten los colores para dejar los iconos en blanco. En fotos usaría funciones como brightness(), contrast(), saturate(), grayscale() o blur() para ajustar iluminación, tonos o desenfoque.
