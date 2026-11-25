@@ -1,0 +1,11 @@
+1. Selector "nav a"
+Afecta a los enlaces <a> que estan dentro de la etiqueta <nav>. En este HTML son los cuatro enlaces con iconos (clase "rigth") y el enlace de texto "A la tiendita en avion" (clase "left"). El espacio entre nav y a significa "dentro de".
+
+2. Selector "nav , a"
+La coma separa dos selectores distintos, asi que el estilo se aplica a todos los elementos <nav> y tambien a todos los elementos <a> de la pagina. En este HTML todos los <a> estan dentro del nav, pero ademas el estilo tambien afecta al propio <nav>, cosa que con "nav a" no pasaba.
+
+3. Selector ".l, .o, .v, .e, .r"
+Afecta a cualquier elemento que tenga alguna de esas clases. En este HTML son los cinco div del grid que muestran las letras L, O, V, E y R.
+
+4. Propiedad filter
+La propiedad filter aplica efectos graficos a un elemento, por ejemplo blur, brightness, contrast, grayscale, sepia o invert. En este laboratorio brightness(0) vuelve la imagen negra e invert(1) la invierte a blanco, por eso los iconos de las redes sociales se ven blancos sobre el nav. En mis fotos usaria grayscale para ponerlas en blanco y negro y contrast para darles mas fuerza.
