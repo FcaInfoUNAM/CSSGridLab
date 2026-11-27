@@ -1,0 +1,38 @@
+
+Aguiñiga Olvera Alejandro grupo 1596
+PASO 1.2  Que elementos afectan estos selectores
+
+(a)  nav a { ... }
+     Es un selector DESCENDIENTE, afecta a todos los <a> que estan dentro de un <nav>, a cualquier nivel.
+     
+(b)  nav , a { ... }
+     La COMA es un selector de AGRUPACION: equivale a escribir dos reglas,
+     "nav { ... }" y "a { ... }". Afecta a TODOS los <nav> y ademas a TODOS
+     los <a> del documento
+
+(c)  .l, .o, .v, .e, .r { ... }
+     Agrupacion de selectores de CLASE (el punto indica clase). Afecta a los
+     cinco <div> del grid que tienen esas clases: L, O, V, E y R. Sirve para
+     darles estilos comunes (texto blanco, sombra, texto centrado, tamano
+     xx-large y line-height de 10rem).
+
+PASO 1.4  Que hace la propiedad filter y que propiedades usaria
+
+La propiedad filter aplica efectos graficos al renderizado de un elemento
+(normalmente imagenes) sin modificar el archivo original. Funciones: blur(),
+brightness(), contrast(), grayscale(), hue-rotate(), invert(), opacity(),
+saturate(), sepia() y drop-shadow().
+
+En la regla "filter: brightness(0) invert(1)":
+ - brightness(0) deja todos los pixeles visibles en negro (conserva la
+   transparencia).
+ - invert(1) invierte los colores al 100%: el negro pasa a blanco.
+
+
+Propiedades que usaria en mis fotos:
+ - grayscale(): fotos en blanco y negro, que recuperan el color con :hover.
+ - sepia(): efecto de foto antigua.
+ - brightness(): oscurecer una foto de fondo para que se lea el texto encima.
+ - contrast() y saturate(): dar mas viveza a fotos opacas.
+ - blur(): desenfocar un fondo.
+ - drop-shadow(): sombra que sigue la silueta de un PNG con transparencia.
