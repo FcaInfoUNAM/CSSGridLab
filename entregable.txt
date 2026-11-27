@@ -1,0 +1,12 @@
+Paso 1
+¿Qué elementos serían afectados con nav a {...}?
+Solo los enlaces <a> que están dentro de una etiqueta nav, sin importar qué tan adentro estén.
+
+¿Qué elementos serían afectados con nav , a {...}?
+Todas las etiquetas nav y también todos los enlaces <a> de la página, estén o no dentro de un nav.
+
+¿Qué elementos serían afectados con .l, .o, .v, .e, .r {...}?
+Todos los elementos que tengan cualquiera de las clases l, o, v, e o r.
+
+¿Qué hace la propiedad filter?
+Aplica efectos visuales a un elemento, como brillo, contraste, desenfoque o escala de grises. En este caso brightness(0) deja los iconos negros y después invert(1) los vuelve blancos. En mis fotos usaría brightness para aclarar las oscuras, contrast para resaltar detalles, saturate para dar más color y grayscale para dejarlas en blanco y negro.
